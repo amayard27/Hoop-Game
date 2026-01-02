@@ -1,6 +1,6 @@
 # Hoop-Game
 
-**Hoop-Game** is a simple interactive hoop and ball game developed as part of the Fall 2024 Fundamentals of Computing course.  
+**Hoop-Game** is a simple interactive hoop and ball game developed as part of my Fall 2024 Fundamentals of Computing course at Notre Dame.  
 This project uses **X11 graphics** via `gfx2`. It requires an X server to render graphics, so it **only runs correctly when launched over SSH with X11 forwarding enabled** (e.g., PuTTY + Xming on Windows).
 
 ---
